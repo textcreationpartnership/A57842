@@ -1,0 +1,236 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Two worthy speeches spoken in the honourable House of Commons by Sir Benjamin Rvdyard, at severall times.</title>
+            <author>Rudyerd, Benjamin, Sir, 1572-1658.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57842</idno>
+            <idno type="STC">Wing R2205</idno>
+            <idno type="STC">ESTC R34011</idno>
+            <idno type="EEBO-CITATION">13660303</idno>
+            <idno type="OCLC">ocm 13660303</idno>
+            <idno type="VID">101106</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A57842)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101106)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1045:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Two worthy speeches spoken in the honourable House of Commons by Sir Benjamin Rvdyard, at severall times.</title>
+                  <author>Rudyerd, Benjamin, Sir, 1572-1658.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Anthony Vincent ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:101106:1"/>
+            <pb facs="tcp:101106:1" rendition="simple:additions"/>
+            <p>TWO WORTHY SPEECHES Spoken in the Honourable Houſe OF COMMONS, By Sir Benjamin Rvdyard, At
+ſeverall times.</p>
+            <figure>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>London, Printed for <hi>Antony Vincent,</hi> and are to be ſold in the old Baily. 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:101106:2" rendition="simple:additions"/>
+            <pb facs="tcp:101106:2" rendition="simple:additions"/>
+            <head>
+               <hi>Two Speeches ſpoken by Sir</hi> Benjamin Rudyard, in the High Court of
+Parliament.</head>
+            <opener>
+               <salute>Mr. SPEAKER,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Do verily believe, that the Vote we have already paſſed for the Disbanding the Armies the
+firſt and tenth of <hi>March,</hi> will finde us no further on our way, then where we now are,
+beſides the ill Accidents that may happen, and ſo much precious time ſpent, as till then.</p>
+            <p>
+               <hi>Sir,</hi> The Main Buſineſſe is, whether we ſhall have a preſent Treatie or no?
+and this concernes us in all that we Have and Are, ſince we Refuſed a Treatie at
+<hi>Not<g ref="char:EOLhyphen"/>tingham,</hi> I doe not find that we have gotten much ground, although our Armie then was
+freſh, full, and full payed: the people erect, bountifull, and forward to the warre. Now the
+Diſpoſition of the Kingdome, for the greateſt part, ſtands bent toward a Peace: ſo that
+whereſoever the Refuſall or Delay of the way to it ſhall be fixt, the Diſadvantage will
+fall on that ſide. How cleare ſoever the intentions of the Houſe are, yet abroad it will be
+taken but as a ſhew without Reality, and ſo it will be returned upon us.</p>
+            <p>For the Propoſitions, I have not known nor heard,
+<pb facs="tcp:101106:3"/>that all the Propoſitions in any Treatie of Importance,
+were ever ſwallowed whole. If ſome be harſh and rough, they may be wrought and ſuppled by
+wiſe Treaters, made fit for an acceptable agreement. If other be unpaſſable, they may be
+totally rejected. Thoſe that are our unqueſtionable Rights may be ſo claimed and held.</p>
+            <p>
+               <hi>Mr. Speaker,</hi> We have already taſted the bitter bloudy fruits of warre, we are growne
+exceedingly be<g ref="char:EOLhyphen"/>hind-hand with our ſelves ſince we began it: if we perſiſt, there will
+ſuch a confluence of Miſchiefes break in upon us, as I am afraid will ruine the King, the
+Kingdome, the Nation; unleſſe God be mercifull to us, and do ſtep in with a great Miracle,
+for a little one will not ſerve our turne.</p>
+            <p>I have long and thoughtfully expected, that the cup of trembling which hath gone round about us
+to other Nations, would at length come in amongſt us. It is now come at laſt, and we may drinke
+the Dregs of it, the worſt; Which God divert.</p>
+            <p>There is yet ſome comfort left, that our Miſeries are not likely to laſt long. For we
+cannot fight here as they doe in <hi>Germanie,</hi> in that great, large, vaſt continent: where
+although there be warre in ſome parts of it, yet there are many other remote quiet places, for
+trade and tillage to ſupport it. We muſt fight as in a Cock-pit, we are ſurrounded with the
+Sea. We have no ſtrong<g ref="char:EOLhyphen"/>er Holds then our own Sculls and our own Ribs, to keep out our enemies;
+ſo that the whole Kingdome will ſuddenly be but one flame.</p>
+            <p>It hath been ſaid in this Houſe, that we are bound in
+<pb facs="tcp:101106:3" rendition="simple:additions"/>conſcience to puniſh the ſhedding of
+innocent bloud: but <hi>Sir,</hi> who ſhall be anſwerable for all the innocent bloud which
+ſhall be ſpilt hereafter, if we doe not en<g ref="char:EOLhyphen"/>deavour a Peace, by a ſpeedy Treatie? Certainly,
+God is as much to be truſted in a Treatie as in a warre: it is He that gives wiſedome to treat,
+as well as courage to fight, and ſucceſſe to both, as it pleaſeth Him. Bloud is a crying
+ſinne, it pollutes a Land: why ſhould we de<g ref="char:EOLhyphen"/>file this Land any longer?</p>
+            <p>Wherefore <hi>Mr. Speaker,</hi> Let us ſtint Bloud aſſoone as we can. Let us agree with
+our Adverſaries in the way, by a preſent, ſhort, wary Treaty. God direct us.</p>
+         </div>
+         <div type="speech">
+            <pb facs="tcp:101106:4"/>
+            <head>A Speech ſpoken in the Honourable Houſe of Commons by Sir Benjamin Rudyard.</head>
+            <opener>
+               <salute>Mr. <hi>Speaker,</hi>
+               </salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>N the way we are, we have gone as farre as words can carry us: We have voted our own Rights
+and the Kings Duty: No doubt there is a Relative Duty be<g ref="char:EOLhyphen"/>tween a King and Sbujects; Obe<g ref="char:EOLhyphen"/>dience from
+a Subject to a King, protection from a King to His. The preſent unhappy diſtance between people
+His Majeſty and the Parlia<g ref="char:EOLhyphen"/>ment, makes the whole Kingdome ſtand amazed, in a fearfull
+expectation of diſmall Calamities to fall upon it: It deeply and conſcionably concernes this
+houſe to compoſe and ſetle theſe threatning, ruining diſtracti<g ref="char:EOLhyphen"/>ons. Mr. <hi>Speaker,</hi>
+I am touched, I am pierced with an apprehenſion of the Honour of the Houſe, and ſucceſſe
+of this Parliament. The beſt way to give a ſtop to theſe deſperate imminent miſchiefs is,
+to make a faire way for the Kings return hither; It will likewiſe give beſt ſatisfaction to
+the People, and will be our beſt Juſtifi<g ref="char:EOLhyphen"/>cation. Mr. <hi>Speaker,</hi> that we may the better
+conſider the condition we are now in, let us ſet our ſelves three years back: If any man then
+could have credibly told us that within three Years the Queene ſhall be gone out of
+<hi>England</hi> into the Low-Countries, for any cauſe whatſoever, The King ſhall remove from
+his Parlia<g ref="char:EOLhyphen"/>ment,
+<pb facs="tcp:101106:4" rendition="simple:additions"/>from <hi>London</hi> to <hi>York,</hi> declaring
+himſelf not to be ſafe here, That there ſhall be a totall Rebellion in <hi>Ireland,</hi> Such
+diſcords and diſtempers both in Church and State here, as now we find; certainly, we ſhould
+have trembled at the thought of it: Wherefore it is fit we ſhould be ſenſible now we are in
+it.</p>
+            <p>On the other ſide, If any man then could have credi<g ref="char:EOLhyphen"/>bly told us, That within three yeares yee
+ſhall have a Parliament, it would have been good newes; That ſhip-money ſhall be taken away
+by an act of Parlia<g ref="char:EOLhyphen"/>ment, the Reaſons and grounds of it ſo rooted out, as that neither it nor
+any thing like, it can ever grow up a<g ref="char:EOLhyphen"/>gain; That Monopolies, that the high-Commiſſion Court,
+the Starre Chamber, the Biſhops Votes ſhall be taken away, the Councell-Table regulated and
+reſtrai<g ref="char:EOLhyphen"/>ned, The Forreſts bounded and limited, that yee ſhall have a trienniall Parliament;
+and more then that, A Perpetuall Parliament, which none ſhall have power to diſſolve without
+your ſelves, we ſhould have thought this a dream of happineſſe; yet now we are in the reall
+poſſeſſion of it, we doe not enjoy it, although his Ma<g ref="char:EOLhyphen"/>jeſtie hath promiſed and
+publiſhed he will make all this good to us we ſtand chiefly upon further ſecurity; wheras the
+very having of theſe things, is a conveni<g ref="char:EOLhyphen"/>ent faire ſecurity, mutually ſecuring one another:
+there is more ſecurity offered, even in this laſt anſwer of the Kings, by removing the
+perſonall Votes of popiſh Lords, the better education of Papiſts children, by ſupplying the
+defects of Law againſt Recuſants, be<g ref="char:EOLhyphen"/>ſides what elſe may be enlarged and improved by a
+ſe<g ref="char:EOLhyphen"/>lect Committee of both Houſes named for that pur<g ref="char:EOLhyphen"/>poſe.
+<pb facs="tcp:101106:5"/>Therfore Sir, let us beware we do not contend for ſuch
+a hazardous unſafe ſecurity, as may endanger the loſſe of what we have already; let us not
+think we have nothing, becauſe we have not all we deſire; and though we had, yet we cannot make
+a Mathematicall ſecurity; All humane Caution is Suſceptible of corruption and failing; Gods
+providence will not be bound, ſucceſſe muſt bee his: he that obſerves the wind and rain,
+ſhall neither ſow nor reap; if he doe nothing till he can ſe<g ref="char:EOLhyphen"/>cure the weather, he will have
+but an ill harveſt.</p>
+            <p>Mr. <hi>Speaker,</hi> it now behoves us to call up all the wiſedome we have about us, for we
+are at the very brink of combuſtion and confuſion: If bloud once be<g ref="char:EOLhyphen"/>gin to touch bloud, we
+ſhall preſently fall into a cer<g ref="char:EOLhyphen"/>tain miſerie, and muſt attend an uncertaine ſucceſſe,
+God knowes when, and God knowes what. Every man here is bound in conſcience to employ his
+utter<g ref="char:EOLhyphen"/>moſt endeavours to prevent the effuſion of bloud; bloud is a crying ſinne, it pollutes
+a Land; let us ſave our Liberties, and our Eſtates, as we may ſave our ſouls too. Now I
+have clearely delivered mine own con<g ref="char:EOLhyphen"/>ſcience, I leave every man freely to his.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:101106:5" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
